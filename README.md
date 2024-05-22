@@ -1,0 +1,1 @@
+Recuperar un hecho aleatorio y mostrarlos con la primera palabra
